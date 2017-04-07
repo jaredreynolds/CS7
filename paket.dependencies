@@ -1,0 +1,4 @@
+source https://www.nuget.org/api/v2
+nuget Microsoft.Net.Compilers
+nuget System.Threading.Tasks.Extensions
+nuget System.ValueTuple
